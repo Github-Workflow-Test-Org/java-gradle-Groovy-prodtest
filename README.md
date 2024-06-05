@@ -1,1 +1,2 @@
-JAVA Gradle Groovy Project - Scan 
+JAVA Gradle Groovy Project - scan 18
+
